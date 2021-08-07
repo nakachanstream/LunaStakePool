@@ -1,0 +1,8 @@
+{
+"name":"nakachan[SIR]#6507",
+"ticker":"SIR",
+"discordId":"386122437399543809",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/nakachanstream/SiriusStakePool/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/nakachanstream/SiriusStakePool/main/sjg-validation.json"
+}
